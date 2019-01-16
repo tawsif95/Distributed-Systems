@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/tawsi/Dropbox/CMSC433/akka_2.11-2.4.20/akka-2.4.20/lib/scala-library-2.11.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tawsi/Dropbox/CMSC433/akka_2.11-2.4.20/akka-2.4.20/lib/akka/akka-actor_2.11-2.4.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tawsi/Dropbox/CMSC433/akka_2.11-2.4.20/akka-2.4.20/lib/akka/config-1.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
